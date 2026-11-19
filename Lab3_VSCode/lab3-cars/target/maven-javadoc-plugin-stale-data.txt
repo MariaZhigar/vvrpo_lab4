@@ -1,0 +1,47 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-private
+--release
+17
+-sourcepath
+'C:/ГГТУ/2 КУРС/1 term/ВвРПО/Lab_3/Lab3_VSCode/lab3-cars/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2026. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/ГГТУ/2 КУРС/1 term/ВвРПО/Lab_3/Lab3_VSCode/lab3-cars/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'lab3-cars 1.0 API'
+-use
+-version
+-windowtitle
+'lab3-cars 1.0 API'
+by.gstu.zhigar.lab3
+by.gstu.zhigar.lab3.model
+C:\ГГТУ\2 КУРС\1 term\ВвРПО\Lab_3\Lab3_VSCode\lab3-cars\src\main\java = 1792735121056
+C:\ГГТУ\2 КУРС\1 term\ВвРПО\Lab_3\Lab3_VSCode\lab3-cars\target\reports\apidocs\allclasses-index.html = 1792827527267
+C:\ГГТУ\2 КУРС\1 term\ВвРПО\Lab_3\Lab3_VSCode\lab3-cars\target\reports\apidocs\allpackages-index.html = 1792827527270
+C:\ГГТУ\2 КУРС\1 term\ВвРПО\Lab_3\Lab3_VSCode\lab3-cars\target\reports\apidocs\constant-values.html = 1792827527185
+C:\ГГТУ\2 КУРС\1 term\ВвРПО\Lab_3\Lab3_VSCode\lab3-cars\target\reports\apidocs\element-list = 1792827527155
+C:\ГГТУ\2 КУРС\1 term\ВвРПО\Lab_3\Lab3_VSCode\lab3-cars\target\reports\apidocs\help-doc.html = 1792827527304
+C:\ГГТУ\2 КУРС\1 term\ВвРПО\Lab_3\Lab3_VSCode\lab3-cars\target\reports\apidocs\index-all.html = 1792827527297
+C:\ГГТУ\2 КУРС\1 term\ВвРПО\Lab_3\Lab3_VSCode\lab3-cars\target\reports\apidocs\index.html = 1792827527253
+C:\ГГТУ\2 КУРС\1 term\ВвРПО\Lab_3\Lab3_VSCode\lab3-cars\target\reports\apidocs\jquery-ui.overrides.css = 1792827527331
+C:\ГГТУ\2 КУРС\1 term\ВвРПО\Lab_3\Lab3_VSCode\lab3-cars\target\reports\apidocs\member-search-index.js = 1792827527278
+C:\ГГТУ\2 КУРС\1 term\ВвРПО\Lab_3\Lab3_VSCode\lab3-cars\target\reports\apidocs\module-search-index.js = 1792827527273
+C:\ГГТУ\2 КУРС\1 term\ВвРПО\Lab_3\Lab3_VSCode\lab3-cars\target\reports\apidocs\overview-summary.html = 1792827527300
+C:\ГГТУ\2 КУРС\1 term\ВвРПО\Lab_3\Lab3_VSCode\lab3-cars\target\reports\apidocs\overview-tree.html = 1792827527247
+C:\ГГТУ\2 КУРС\1 term\ВвРПО\Lab_3\Lab3_VSCode\lab3-cars\target\reports\apidocs\package-search-index.js = 1792827527274
+C:\ГГТУ\2 КУРС\1 term\ВвРПО\Lab_3\Lab3_VSCode\lab3-cars\target\reports\apidocs\script.js = 1792827527310
+C:\ГГТУ\2 КУРС\1 term\ВвРПО\Lab_3\Lab3_VSCode\lab3-cars\target\reports\apidocs\search.js = 1792827527313
+C:\ГГТУ\2 КУРС\1 term\ВвРПО\Lab_3\Lab3_VSCode\lab3-cars\target\reports\apidocs\stylesheet.css = 1792827527307
+C:\ГГТУ\2 КУРС\1 term\ВвРПО\Lab_3\Lab3_VSCode\lab3-cars\target\reports\apidocs\tag-search-index.js = 1792827527279
+C:\ГГТУ\2 КУРС\1 term\ВвРПО\Lab_3\Lab3_VSCode\lab3-cars\target\reports\apidocs\type-search-index.js = 1792827527276

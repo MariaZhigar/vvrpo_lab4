@@ -1,0 +1,53 @@
+' Начало диаграммы
+@startuml
+' Убирает маленькие иконки
+skinparam classAttributeIconSize 0
+' - — уровень видимости private. + - public
+' Имя поля fullName
+' Тип поля
+class Driver {
+  - fullName: String 
+  - drivingExperience: int
+  + Driver(String fullName, int drivingExperience)
+  + getFullName(): String
+  + getDrivingExperience(): int
+  + toString(): String
+}
+
+class Engine {
+  - power: int
+  - manufacturer: String 
+  + Engine(int power, String manufacturer)
+  + getPower(): int
+  + getManufacturer(): String
+  + toString(): String
+}
+
+class Car {
+  - brand: String 
+  - carClass: String 
+  - weight: double 
+  - driver: Driver 
+  - engine: Engine 
+  + Car(String brand, String carClass, double weight, Driver driver, Engine engine)
+  + getBrand(): String
+  + getCarClass(): String
+  + getWeight(): double
+  + getDriver(): Driver
+  + getEngine(): Engine
+  + getProductionCountry(): String
+  + isSoviet(): boolean
+  + toString(): String
+}
+
+class SovietCar {
+  + SovietCar(String brand, String carClass, double weight, Driver driver, Engine engine)
+  + getProductionCountry(): String
+  + isSoviet(): boolean
+}
+
+Car *-- Driver : композиция >
+Car *-- Engine : композиция >
+Car <|-- SovietCar : наследование
+' Конец диаграммы
+@enduml

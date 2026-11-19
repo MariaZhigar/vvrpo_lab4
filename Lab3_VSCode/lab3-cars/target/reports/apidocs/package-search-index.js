@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"by.gstu.zhigar.lab3"},{"l":"by.gstu.zhigar.lab3.model"}];updateSearchResults();
